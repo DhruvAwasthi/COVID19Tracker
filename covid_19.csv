@@ -1,26 +1,42 @@
-,S. No.,Name of State / UT,Total Confirmed cases (Indian National),Total Confirmed cases ( Foreign National ),Cured/Discharged/Migrated,Death
-0,1,Andhra Pradesh,8,0,0,0
-1,2,Bihar,3,0,0,1
-2,3,Chhattisgarh,1,0,0,0
-3,4,Delhi,29,1,6,1
-4,5,Gujarat,32,1,0,1
-5,6,Haryana,14,14,11,0
-6,7,Himachal Pradesh,3,0,0,1
-7,8,Karnataka,37,0,3,1
-8,9,Kerala,87,8,4,0
-9,10,Madhya Pradesh,7,0,0,0
-10,11,Maharashtra,86,3,0,2
-11,12,Manipur,1,0,0,0
-12,13,Odisha,2,0,0,0
-13,14,Puducherry,1,0,0,0
-14,15,Punjab,29,0,0,1
-15,16,Rajasthan,30,2,3,0
-16,17,Tamil Nadu,13,2,1,0
-17,18,Telengana,25,10,1,0
-18,19,Chandigarh,7,0,0,0
-19,20,Jammu and Kashmir,4,0,0,0
-20,21,Ladakh,13,0,0,0
-21,22,Uttar Pradesh,32,1,11,0
-22,23,Uttarakhand,3,1,0,0
-23,24,West Bengal,9,0,0,1
-24,Total number of confirmed cases in India,Total number of confirmed cases in India,476,43,40,9
+,S. No.,Name of State / UT,Active Cases*,Cured/Discharged/Migrated*,Deaths**,Total Confirmed cases*
+0,1,Andaman and Nicobar Islands,0,33,0,33
+1,2,Andhra Pradesh,1951,2682,75,4708
+2,3,Arunachal Pradesh,50,1,0,51
+3,4,Assam,1946,615,4,2565
+4,5,Bihar,2578,2480,30,5088
+5,6,Chandigarh,36,273,5,314
+6,7,Chhattisgarh,786,283,4,1073
+7,8,Dadar Nagar Haveli,18,2,0,20
+8,9,Delhi,17125,10999,812,28936
+9,10,Goa,235,65,0,300
+10,11,Gujarat,5186,13635,1249,20070
+11,12,Haryana,2286,2134,28,4448
+12,13,Himachal Pradesh,184,224,5,413
+13,14,Jammu and Kashmir,2830,1216,41,4087
+14,15,Jharkhand,602,490,7,1099
+15,16,Karnataka,3259,2132,61,5452
+16,17,Kerala,1096,803,15,1914
+17,18,Ladakh,52,50,1,103
+18,19,Madhya Pradesh,2658,6331,412,9401
+19,20,Maharashtra,43601,39314,3060,85975
+20,21,Manipur,120,52,0,172
+21,22,Meghalaya,22,13,1,36
+22,23,Mizoram,33,1,0,34
+23,24,Nagaland,110,8,0,118
+24,25,Odisha,953,1894,9,2856
+25,26,Puducherry,63,36,0,99
+26,27,Punjab,451,2106,51,2608
+27,28,Rajasthan,2718,7641,240,10599
+28,29,Sikkim,7,0,0,7
+29,30,Tamil Nadu,14399,16999,269,31667
+30,31,Telengana,1803,1710,137,3650
+31,32,Tripura,608,192,0,800
+32,33,Uttarakhand,814,528,13,1355
+33,34,Uttar Pradesh,4076,6185,275,10536
+34,35,West Bengal,4488,3303,396,8187
+35,,Cases being reassigned to states,7837,,,7837
+36,,Total#,124981,124430,7200,256611
+37,*(Including foreign Nationals),*(Including foreign Nationals),*(Including foreign Nationals),*(Including foreign Nationals),*(Including foreign Nationals),*(Including foreign Nationals)
+38,**( more than 70% cases due to comorbidities ),**( more than 70% cases due to comorbidities ),**( more than 70% cases due to comorbidities ),**( more than 70% cases due to comorbidities ),**( more than 70% cases due to comorbidities ),**( more than 70% cases due to comorbidities )
+39,#States wise distribution is subject to further verification and reconciliation,#States wise distribution is subject to further verification and reconciliation,#States wise distribution is subject to further verification and reconciliation,#States wise distribution is subject to further verification and reconciliation,#States wise distribution is subject to further verification and reconciliation,#States wise distribution is subject to further verification and reconciliation
+40,#Our figures are being reconciled with ICMR,#Our figures are being reconciled with ICMR,#Our figures are being reconciled with ICMR,#Our figures are being reconciled with ICMR,#Our figures are being reconciled with ICMR,#Our figures are being reconciled with ICMR
